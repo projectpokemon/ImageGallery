@@ -1,0 +1,21 @@
+ Volume in drive D is Internal Storage
+ Volume Serial Number is A030-089E
+
+ Directory of D:\Documents\ImageGallery-fixed-gifs\Pokedex2\710 Pumpkaboo
+
+26/06/2020  15:32    <DIR>          .
+26/06/2020  15:32    <DIR>          ..
+26/06/2020  14:42           341,986 Animated large.png
+26/06/2020  14:42           266,060 Animated Shiny large.png
+26/06/2020  14:42           187,722 Animated Shiny small.png
+26/06/2020  14:42           348,984 Animated Shiny super.png
+26/06/2020  14:58           111,668 Animated Shiny.gif
+26/06/2020  14:42           236,187 Animated Shiny.png
+26/06/2020  14:42           234,875 Animated small.png
+26/06/2020  14:42           525,173 Animated super.png
+26/06/2020  14:56           142,143 Animated.gif
+26/06/2020  14:42           304,373 Animated.png
+26/06/2020  15:32             1,206 cmd.exe.lnk
+26/06/2020  15:32                 0 print.txt
+              12 File(s)      2,700,377 bytes
+               2 Dir(s)  1,321,819,643,904 bytes free
