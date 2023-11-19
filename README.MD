@@ -9,12 +9,13 @@ This fork is operated by Xieon's Gaming Corner (XGC). Please check out our socia
 Feel free to reach out with any questions as well as simply join our community's Discord at [discord.gg/xieon](https://discord.gg/xieon) or [xieon.co](http://xieon.co).
 
 
-Thanks to the members of the XGC community on Discord that helped compiled many of the images. 
-Thanks Rich for gathering the ball set for me. 
+* Thanks to the members of the XGC community on Discord who helped compile many of the images.
+* Thanks, Rich for gathering the ball set for me. 
+* Project Pokemmon for maming the majority of these files easily to locate and had collated them already. 
 
 
 ## Current Repository Project:
-* 1 image of all pokemon as of Novemnber 5th, 2023 has been added
+* 1 image of all Pokemon as of November 5th, 2023 has been added
 * All Balls available in Gen 9 folder completed folder added
 
 
@@ -26,7 +27,7 @@ Thanks Rich for gathering the ball set for me.
 * This project has been out of date for some time. Xieon's Gaming Corner is going to attempt to r
 
 
-# The information below is retained from the original repositories progenators 
+# The information below is retained from the original repositories' progenitors 
 
 Project Pok�mon Image Gallery
 This repository of images is the source of the Project Pok�mon Image Gallery.
