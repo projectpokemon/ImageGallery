@@ -1,42 +1,40 @@
-# Project Pokémon Image Gallery
+# Xieon's Gaming Corner 
+This fork is operated by Xieon's Gaming Corner (XGC). Please check out our socials, any and all support is appreciated. 
 
-This repository of images is the source of the Project Pokémon Image Gallery.
+[XGC on Twitch](https://twitch.tv/xieon)
+[XGC on YouTube](https://youtube.com/@XieonGaming)
 
-## Current directories
 
-* ~/Pokedex - This directory is automatically published to the [Image-dex](https://projectpokemon.org/home/gallery/category/2-image-dex/) section of our site.
+## Community Discord
+Feel free to reach out with any questions as well as simply join our community's Discord at [discord.gg/xieon](https://discord.gg/xieon) or [xieon.co](http://xieon.co).
+
+
+* Thanks to the members of the XGC community on Discord who helped compile many of the images.
+* Thanks, Rich for gathering the ball set for me. 
+* Project Pokemmon for maming the majority of these files easily to locate and had collated them already. 
+
+
+## Current Repository Project:
+* 1 image of all Pokemon as of November 5th, 2023 has been added
+* All Balls available in Gen 9 folder completed folder added
+
+
+
+## Continuation of a forgotten project
+* The last Pokemon officially added by the original repository authors was 807 Zeraora, we're over 1000, like 1020 with Ogerpon at the moment. 
+
+* The initial images were forked from Project Pokemon 
+* This project has been out of date for some time. Xieon's Gaming Corner is going to attempt to r
+
+
+# The information below is retained from the original repositories' progenitors 
+
+Project Pokï¿½mon Image Gallery
+This repository of images is the source of the Project Pokï¿½mon Image Gallery.
+
+## Current legacy directories
+* /Pokedex - This directory is automatically published to the [Image-dex](https://projectpokemon.org/home/gallery/category/2-image-dex/) section of our site.
 * ~/Resources - This directory contains files used in the creation and sorting of images. Right now, it's where we put SVGs that we turn into more common formats.
 * ~/Unfiled - This is where we put images that have not been sorted into one of the other directories yet. Assistance is appreciated.
 
-## File structure
-### ~/Pokedex
-To aid our automated publisher, we keep a strict format of everything in this directory.
 
-#### Folders
-Directories must be the name of a Pokémon or other creature, as they will be the name of a gallery album on our website.
-
-Subdirectories inside these directories are not allowed.
-
-Folders may have the following name structures:
-* [Name]
-* [DexID] [Name]
-
-This lets us tag images with [Name], for easier searching.
-
-#### Files
-Images are the primary aggregates, and other files that share the same name provide metadata. The following extensions are supported:
-* *.gif, *.jpeg, *.jpe, *.jpg, *.png - These are image files (obviously). The name of this file is the name of the image as it appears on our website.
-* *.txt - This file contains a description of the image. HTML is allowed and encouraged.
-* *.credit - This file contains a brief description of who should be credited for the image. HTML is not allowed.
-* *.tags - This file contains a comma-separated list of tags, to make searching for images easier.
-* *.exclude - Files with this extension are ignored
-
-## Contributing
-
-We would love your help in sourcing and organizing these images. If you're willing, please use these steps to contribute:
-
-1. Fork the repository
-2. Commit changes within the guidelines above
-3. Make a pull request to the master branch
-
-A collaborator will then review your changes to make sure our automated publisher won't choke, and we will then merge your pull request. Members of Project Pokémon may receive the Image Contributor award to recognize your contribution.

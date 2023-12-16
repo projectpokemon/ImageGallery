@@ -1,0 +1,5 @@
+The files are formatted with the filename:  ball_(type).png where type is the ball type, so ball_master.png etc. 
+
+This is to match the rest of the standards so balls, pokemon, tera types, etc all match.
+
+Thanks to Rich - Admin from Xieon's Gaming Corner for compiling these for me, as well as many of the other images in our master image data set
